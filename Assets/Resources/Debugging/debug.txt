@@ -1,0 +1,23 @@
+226
+Survivor Name: Jake
+Survivor Image: Images/Survivors/IconSurvivor_jake
+
+278
+Perk1: 1025
+Name: Detective's Hunch
+Image: Images/SurvivorPerks/IconPerks_detectivesHunch
+
+299
+Perk4: 1031
+Name: For the People
+Image: Images/SurvivorPerks/IconPerks_forThePeople
+
+292
+Perk3: 1038
+Name: Leader
+Image: Images/SurvivorPerks/IconPerks_leader
+
+285
+Perk2: 1070
+Name: Streetwise
+Image: Images/SurvivorPerks/IconPerks_streetWise

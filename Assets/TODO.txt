@@ -1,0 +1,12 @@
+Roll:
+
+Editor:
+	Configure onclick to change active value, both characters and perks.+
+	
+	Display selected character on side.
+	Pop up window to set up or discard changes.
+	
+Debugging:
+
+Research:
+	Dynamic info window when mouse over characters / perks.

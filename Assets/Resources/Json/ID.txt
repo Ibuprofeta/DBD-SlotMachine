@@ -1,0 +1,4 @@
+0000 : killers
+0200 : survivors
+0400 : killer perks
+1000 : survivor perks
